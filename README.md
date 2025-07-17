@@ -25,6 +25,10 @@ Actualmente combino mis conocimientos en análisis, tecnología y automatizació
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
